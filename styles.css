@@ -1,0 +1,23 @@
+h1{
+    color:purple;
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+    text-decoration: overline underline;
+}
+p{
+    color:purple;
+    font-family: 'Pattaya', sans-serif;
+    text-decoration: underline; 
+}
+li{ 
+    color:blue;
+    font-family: 'Questrial', sans-serif;
+}
+img{
+    border: dashed 3px #ff3642;
+    width: 300px ;
+}
+body{
+    background: #e0c7c0;
+    text-align:center;
+}
